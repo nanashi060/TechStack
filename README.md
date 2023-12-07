@@ -11,7 +11,7 @@ npm install -g pnpm
 ## frontend ディレクトリに移動
 
 ```
-cf frontend
+cd frontend
 ```
 
 ## パッケージインストール
